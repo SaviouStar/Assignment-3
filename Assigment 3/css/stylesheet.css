@@ -1,0 +1,18 @@
+h1{
+    font-size: 80px !important;
+    font-family: 'Roboto Mono', monospace !important ;
+}
+
+h2{
+    font-family: 'Mukta' sans-serif !important ;
+}
+h3{
+    font-family: 'Lora', serif !important ;
+}
+h5{
+    font-size: 30px !important;
+    font-family: 'Raleway', sans-serif !important ;
+}
+body{
+    background-color:#fff3e2 !important;
+}
